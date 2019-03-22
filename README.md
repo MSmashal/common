@@ -1,3 +1,3 @@
 # notes FE
-### javascript node notes about .
+### about javascript node notes  .
 ### note some interesting things .
